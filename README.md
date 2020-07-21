@@ -19,15 +19,15 @@ console.log(value)  //WORKING
 ```
 
 ## Features
-> Only 6 lines of code
-> Lightweight
-> Ultrafast
-> Simple syntax
-> Small memory footprint
+>> Only 6 lines of code
+>> Lightweight
+>> Ultrafast
+>> Simple syntax
+>> Small memory footprint
 
 ## Limitations
 
-> Custom HTML tags will not work.
-> Dynamic data cannot be parsed.
-> Keep in mind, this is not a browser. So, no styling or JavaScript code will be executed when parsing.
-> Since, this module supports JSDOM, you can enable those execution by tweaking the code. But for the sake of simplicity and performance those are disabled.
+>> Custom HTML tags will not work.
+>> Dynamic data cannot be parsed.
+>> Keep in mind, this is not a browser. So, no styling or JavaScript code will be executed when parsing.
+>> Since, this module supports JSDOM, you can enable those execution by tweaking the code. But for the sake of simplicity and performance those are disabled.
