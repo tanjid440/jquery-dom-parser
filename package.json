@@ -1,0 +1,29 @@
+{
+  "name": "jquery-dom-parser",
+  "version": "1.0.0",
+  "description": "Node module for HTML parsing using the jQuery Library.",
+  "main": "parser.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanjid440/jquery-dom-parser.git"
+  },
+  "keywords": [
+    "html",
+    "jquery",
+    "jsdom",
+    "dom",
+    "parser"
+  ],
+  "author": "tanjid440",
+  "bugs": {
+    "url": "https://github.com/tanjid440/jquery-dom-parser/issues"
+  },
+  "homepage": "https://github.com/tanjid440/jquery-dom-parser#readme",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "jsdom": "^16.3.0"
+  }
+}
