@@ -11,7 +11,7 @@ npm install jquery-html-parser
 ```
 
 ## Usage
-```
+```js
 const parseHTML = require('jquery-html-parser')
 
 const html = '<div class="className">WORKING</div>'
